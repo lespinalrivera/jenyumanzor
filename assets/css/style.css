@@ -22,10 +22,12 @@ button {
 	NAVBAR
 ===================================================== */
 
-.toggle {
-    color: var(--primary-color);
-}
-
+.navbar-light .navbar-toggler {
+    border-color: var(--primary-color);
+  } 
+  .navbar-light .navbar-toggler-icon {
+    border-color: rgb(255,102,203);
+  }
 /* 
 =====================================================
 	Home
