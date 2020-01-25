@@ -1,1 +1,18 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><style>.cls-1{fill:none;stroke-width:7.49px;}.cls-1,.cls-2{stroke:#b18c2e;}.cls-2{fill:#b18c2e;stroke-width:4px;}</style></defs><title>EmailIcon</title><g id="Group_3" data-name="Group 3"><g id="Group_2" data-name="Group 2"><g id="Ellipse_1" data-name="Ellipse 1"><path class="cls-1" d="M50,3.8c25.52,0,46.27,20.13,46.27,45S75.48,96.28,50,96.28,3.75,73.59,3.75,48.76,24.44,3.8,50,3.8Z"/></g></g></g><path id="envelope-solid" class="cls-2" d="M23.28,31.57V68.51H76.63V31.57Zm8.84,4.12H67.77L49.93,47.55Zm-4.74,1.8,21.4,14.29,1.15.7,1.15-.7L72.49,37.49V64.42H27.35V37.49Z"/></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <defs>
+        <style>
+        .cls-1{fill:none;stroke-width:7.49px;}
+        .cls-1,.cls-2{stroke:#b18c2e;}
+        .cls-2{fill:#b18c2e;stroke-width:4px;}
+        </style>
+    </defs>
+    <title>EmailIcon</title>
+        <g id="Group_3" data-name="Group 3">
+            <g id="Group_2" data-name="Group 2">
+                <g id="Ellipse_1" data-name="Ellipse 1">
+                <path class="cls-1" d="M50,3.8c25.52,0,46.27,20.13,46.27,45S75.48,96.28,50,96.28,3.75,73.59,3.75,48.76,24.44,3.8,50,3.8Z"/>
+                </g>
+            </g>
+        </g>
+    <path id="envelope-solid" class="cls-2" d="M23.28,31.57V68.51H76.63V31.57Zm8.84,4.12H67.77L49.93,47.55Zm-4.74,1.8,21.4,14.29,1.15.7,1.15-.7L72.49,37.49V64.42H27.35V37.49Z"/>
+</svg>
